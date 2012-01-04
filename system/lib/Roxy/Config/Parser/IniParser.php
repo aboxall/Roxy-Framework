@@ -1,5 +1,5 @@
 <?php
-namespace Roxy\Config\IniParser;
+namespace Roxy\Config\Parser\IniParser;
 class IniParser
 {
 	public function __construct() {}
